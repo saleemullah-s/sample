@@ -1,0 +1,166 @@
+    1  pwd
+    2  is
+    3  uname
+    4  clear
+    5  pwd
+    6  is
+    7  pwd
+    8  clear
+    9  whoami
+   10  id
+   11  who
+   12  w
+   13  clear
+   14  uname-a
+   15  whoami
+   16  who
+   17  w
+   18  id
+   19  pwd
+   20  is
+   21  ls
+   22  lsl
+   23  ls
+   24  useradd<saleemullah>
+   25  useradd <saleemullah>
+   26  useradd
+   27  saleemullahi
+   28  useradd
+   29  uptime
+   30  top
+   31  shutdown-h now
+   32  shutdown -h now
+   33  reboot
+   34  df -h
+   35  ls
+   36  \ls
+   37  /ls
+   38  /e
+   39  /E:
+   40  /D:
+   41  clear
+   42  ifconfig
+   43  pinf
+   44  ping <google>
+   45  ping google
+   46  useradd saleemullah
+   47  dig google
+   48  dig youtube.com
+   49  wget [200~https://chatgpt.com/c/67971d77-9980-8008-b46c-580315e66e18~
+   50  wget 
+   51  wget--help
+   52  wget --help
+   53  SSH user@host
+   54  SSH ansible@host
+   55  ssh user@host
+   56  ssh user@google
+   57  ssh ansible@ansible
+   58  ssh ansible@chatgpt
+   59  pwd
+   60  ssh ansible@chatgpt
+   61  pwd
+   62  ssh ansible@chatgpt
+   63  pwd
+   64  ssh ansible@chatgpt
+   65  pwd
+   66  ssh ansible@chatgpt
+   67  pwd
+   68  clear
+   69  home
+   70  hm
+   71  h
+   72  ls
+   73  w
+   74  who
+   75  whoami
+   76  id
+   77  ipconfig
+   78  ip
+   79  ifconfig
+   80  sudo apt install vim
+   81  /saleemullaj
+   82  /saleemullah
+   83  aa/word
+   84  /word
+   85  ls -l
+   86  chmod 777 sample
+   87  chmod 777 sample/desktop
+   88  umask
+   89  stat sample
+   90  stat sample.txt
+   91  sudo
+   92  chmod
+   93  chmod+x sample
+   94  chmod +x sample
+   95  umask
+   96  getfacl
+   97* getfacl sample;user
+   98  setfacl
+   99  setfacl -m u:user:rw x sample
+  100  chmod 777 sample
+  101  sudo
+  102  ifconfig
+  103  ip addr show
+  104  ping google.com
+  105  traceroute google.com
+  106  traceroute youtube.com
+  107  ping 8.8.8.8
+  108  traceroute google.com
+  109  traceroute 8.8.8.8
+  110  tracert google.com
+  111  traceroute google.com
+  112  netstat -tulnp
+  113  ss -tulnp
+  114  nslookup google.com
+  115  nslookup 8.8.8.8
+  116  dig google.com
+  117  wget https://file://C:/Users/ADMIN/Desktop/sample.txt
+  118  [200~wget https://example.com/file.zip
+  119  ~wget https://example.com/file.zip
+  120  traceroute google.com
+  121  tracert google.com
+  122  ns lookup google.com
+  123  nslookup 8.8.8.8
+  124  ping 8.8.8.8
+  125  stat https://file://C:/Users/ADMIN/Desktop/sample.txt
+  126  stat https://file:///C:/Users/ADMIN/Desktop/sample.txt
+  127  ping google.com
+  128  traceroute google.com
+  129  ping youtube.com
+  130  dig google
+  131  dig google.com
+  132  trace route google.com
+  133  netstat -tulnp
+  134  ss -tulnp
+  135  ls -l
+  136  cd C:
+  137  cd /C:
+  138  ls
+  139  ls -l
+  140  ls-l
+  141  ls -l
+  142  chmod 777 sample.txt
+  143  chmod + x
+  144  umask
+  145  ifconfig
+  146  ip addr show
+  147  netstat -tulnp
+  148  ss -tulnp
+  149  lpgin
+  150  login
+  151  log
+  152  shutdoen
+  153  shutdown
+  154  dig google.com
+  155  dug google.com
+  156  stat sample.txt
+  157  statx sample.txt
+  158  ls -l
+  159  unmask
+  160  umask
+  161  sudo
+  162  sudo -h
+  163  sudo -S
+  164  sudo -h -S
+  165  ping google.com
+  166  history > cmd.txt
