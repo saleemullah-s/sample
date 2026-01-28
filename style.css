@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(circle at top, #1e3c72, #0f2027);
+  color: white;
+  text-align: center;
+  overflow: hidden;
+}
+
+.scene {
+  max-width: 650px;
+  padding: 40px;
+  z-index: 2;
+}
+
+h1 {
+  font-size: 28px;
+  min-height: 120px;
+  transition: opacity 0.8s ease;
+  line-height: 1.6;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  font-size: 16px;
+  border: none;
+  border-radius: 30px;
+  background: #ff6f91;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+.glow {
+  text-shadow: 0 0 15px #fff, 0 0 30px #ff6f91;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Floating hearts */
+@keyframes floatUp {
+  to {
+    transform: translateY(-110vh);
+    opacity: 0;
+  }
+}
+
+/* Stars */
+.star {
+  position: fixed;
+  color: white;
+  animation: twinkle 2s infinite alternate;
+}
+
+@keyframes twinkle {
+  from { opacity: 0.2; }
+  to { opacity: 1; }
+}
+
+#finalScreen {
+  position: absolute;
+  text-align: center;
+}
